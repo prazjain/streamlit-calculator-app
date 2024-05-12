@@ -9,4 +9,5 @@ In this example, we will host this app on streamlit community cloud for free.
 * Activate the env `source venv/bin/activate`  
 * Install dependencies `pip install -r requirements.txt`  
 * Run the application locally `streamlit run mortgage_calculator.py`  
+* Or navigate to the app deployed here [mortgage-calculator-app-prash.streamlit.app](https://mortgage-calculator-app-prash.streamlit.app/)  
 
